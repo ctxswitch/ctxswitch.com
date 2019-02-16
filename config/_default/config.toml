@@ -27,7 +27,7 @@ canonifyurls    = true
 
 [params]
   title       = "Rob Lyon"
-  subtitle    = "Context switching like an f'ing boss."
+  subtitle    = "Just storing state as I swap between experiences."
   copyright   = "©2019 - Feel free to copy my life, just give me some credit."
 
   cover       = "images/milky-way.jpeg"
