@@ -27,7 +27,7 @@ I moved again, re-enrolled in school, but this time I would not focus on the tec
 
 Academic life still wasn’t easy for me, but I was starting to adapt, and the grades were improving. Life moved on, and I met a wonderful girl, and we started a family, but something was missing. I looked into the future and didn’t like what I saw 10 years down the road. In terms of my career, I was settling, and I didn’t enjoy or admire who I was becoming. In the meantime, I had picked up a job in data entry and was starting to get that passion for technology back.
 
-I had to make another change so I did what any broke kid with responsibilities would do. I joined the military. Wait… I did what? Yes, I drove down to the recruiter and joined the Army. I often argue with myself whether or not that was a good move, but the rigid discipline and structure that the military taught me has influenced my life significantly.
+I had to make another change so I did what any broke kid with responsibilities would do. I joined the military. Wait… I did what? Yes, I drove down to the recruiter and joined the Army. I often argue with myself whether or not that was a good move, but the rigid discipline and structure that the military taught me, influenced my life significantly.
 
 With the influx money that my service in the military had provided, I built my first computer for about $300.00. With this, I was also introduced to the internet explosion of flashing gifs and plaid backgrounds. I began dabbling in web design, Perl, and a little Pascal when I was bored. By this time our family had grown with the addition of a daughter so my dabbling would never pay all the bills.
 
@@ -46,7 +46,7 @@ Working in high-performance computing at the Institute for Bioinformatics and Ev
 
 As part of my benefits, I could go back to school taking a class or two at a time for a small fee and finish my degree in Computer Science. Interestingly enough, I was thriving in this new environment, and my F’s and D’s became A’s and B’s. This new found academic success was an invigorating experience for me and I started to realize that it wasn’t because I was stupid or not meant to be an engineer.
 
-When I took a full-time course load, I would always find something that intrigued me and inevitably become hyper-focused on the concept or problem. This focus, although incredibly fun and exciting for me, was incredibly toxic to my other classes; even the same class that introduced the concept. I would inevitably spend hours or days (and sometimes months) burrowing into the problem like a tick and completely let everything else go. I was unable to unable to focus on anything else.
+When I took a full-time course load, I would always find something that intrigued me and inevitably become hyper-focused on the concept or problem. This focus, although incredibly fun and exciting for me, was incredibly toxic to my other classes; even the same one that introduced the concept. I would inevitably spend hours or days (and sometimes months) burrowing into the problem like a tick and completely let everything else go. I was unable to unable to focus on anything else.
 
 After several more years, I finished my degree in Computer Science, surrounded by my family and friends.
 
