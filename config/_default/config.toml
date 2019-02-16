@@ -1,4 +1,4 @@
-baseURL         = "http://ctxswitch.com/"
+baseURL         = "http://www.ctxswitch.com/"
 title           = "Context Switching"
 baseurl         = "/"
 theme           = "casper-two"
@@ -52,7 +52,7 @@ paginate        = 6
   author = "RL"
   authorAvatar = "images/rob.jpeg"
   authorLocation = "Sandpoint, ID"
-  authorWebsite = "https://ctxswitch.io"
+  authorWebsite = "https://www.ctxswitch.com"
   authorDescription = "Infrastructure and reliability at @kochavamobile; Veteran; HPC; Limited vocabulary consisting of: What the..., are you kidding me, and various audible groans."
 
   pageNotFoundTitle = "404 - Page not found"
