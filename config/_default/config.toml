@@ -1,10 +1,11 @@
-baseURL         = "http://www.ctxswitch.com/"
+baseURL         = "https://www.ctxswitch.com/"
 title           = "Context Switching"
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
+canonifyurls    = true
 
 [permalinks]
   post = "/post/:slug/"
@@ -52,7 +53,7 @@ paginate        = 6
   author = "RL"
   authorAvatar = "images/rob.jpeg"
   authorLocation = "Sandpoint, ID"
-  authorWebsite = "https://www.ctxswitch.com"
+  authorWebsite = "https://www.ctxswitch.com/about/"
   authorDescription = "Infrastructure and reliability at @kochavamobile; Veteran; HPC; Limited vocabulary consisting of: What the..., are you kidding me, and various audible groans."
 
   pageNotFoundTitle = "404 - Page not found"
