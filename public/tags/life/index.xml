@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Context Switching</title>
+    <link>http://ctxswitch.com/tags/life/</link>
+    <description>Recent content in Life on Context Switching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Nov 2017 18:31:29 -0800</lastBuildDate>
+    
+	<atom:link href="http://ctxswitch.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Its Never Too Late</title>
+      <link>http://ctxswitch.com/post/its-never-too-late/</link>
+      <pubDate>Wed, 15 Nov 2017 18:31:29 -0800</pubDate>
+      
+      <guid>http://ctxswitch.com/post/its-never-too-late/</guid>
+      <description>Sometimes in your life, you run into situations that spur reflection. Decisions made, paths chosen and priorities run through your mind at lightning speed and stimulate deep emotions. For many people, the road to a dream can be long and be full of challenges and sacrifices. I was in my early 30’s when I first started seeing the fruits of those challenges. Hopefully, my story will inspire others to keep trying and never give up on their dreams.</description>
+    </item>
+    
+  </channel>
+</rss>

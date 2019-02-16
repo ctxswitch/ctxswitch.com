@@ -1,0 +1,61 @@
+baseURL         = "http://ctxswitch.com/"
+title           = "Context Switching"
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tags/tutorials"
+  weight = 99
+
+[[menu.main]]
+  name = "Life"
+  url = "/tags/life"
+  weight = 95
+
+[params]
+  title       = "Rob Lyon"
+  subtitle    = "Context switching like an f'ing boss."
+  copyright   = "©2019 - Feel free to copy my life, just give me some credit."
+
+  cover       = "images/milky-way.jpeg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "ctxswitch"
+  fbName = ""
+  githubName = "ctxswitch"
+  linkedinName = "rtlyon"
+  mediumName = ""
+
+  # logo = "hugo-logo.png"
+  # orgName = "EM"
+  # orgWebsite = "https://www.telematika.org"
+  # orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "RL"
+  authorAvatar = "images/rob.jpeg"
+  authorLocation = "Sandpoint, ID"
+  authorWebsite = "https://ctxswitch.io"
+  authorDescription = "Infrastructure and reliability at @kochavamobile; Veteran; HPC; Limited vocabulary consisting of: What the..., are you kidding me, and various audible groans."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
