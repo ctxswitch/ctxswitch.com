@@ -10,7 +10,7 @@ menu:
     weight: 111
 ---
 
-![Rob Lyon](/images/rob.jpeg)
+![Rob Lyon](/images/rob.jpg)
 
 Hi! I'm Rob.  The fact that you are here leads me to think that you are either entirely bored or have a propensity to read everything that you see on the internet.  On the off chance, that you genuinely want to know about me, here are a few tidbits.  Just remember, you asked for it.
 

@@ -2,7 +2,7 @@
 title: "Its Never Too Late"
 date: 2017-11-15T18:31:29-08:00
 draft: false
-image: images/road-less-traveled.jpeg
+image: images/road-less-traveled.jpg
 tags:
   - Life
 ---

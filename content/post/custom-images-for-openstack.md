@@ -4,7 +4,7 @@ date: 2014-01-19 18:00
 draft: false
 tags:
   - Tutorials
-image: images/colourful-death.jpeg
+image: images/drives.jpg
 ---
 
 ## Installing the operating system with KVM
@@ -129,7 +129,3 @@ Lastly, change the filesystem label on the image to work with the stab entry we 
 ```
 tune2fs -L vm-rootfs ubuntu-server-11.10.img
 ```
-
-## Credits
-
-Photo by [Mike Navolta](https://www.pexels.com/@mike-navolta-185566?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
