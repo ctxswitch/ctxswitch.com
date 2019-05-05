@@ -1,5 +1,5 @@
 baseURL         = "https://www.ctxswitch.com/"
-title           = "Context Switching"
+title           = "Context Switch"
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
@@ -27,7 +27,7 @@ canonifyurls    = true
 
 [params]
   title       = "Rob Lyon"
-  subtitle    = "Just storing state as I swap between experiences."
+  subtitle    = "Context Switch: Transitioning to something new after storing my previous state."
   copyright   = "©2019 - Feel free to copy my life, just give me some credit."
 
   cover       = "images/circuitboard.jpg"
