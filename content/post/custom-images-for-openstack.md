@@ -5,6 +5,8 @@ draft: false
 tags:
   - Tutorials
 image: images/drives.jpg
+aliases:
+  - /blog/2014/01/19/creating-custom-images-for-openstack/
 ---
 
 ## Installing the operating system with KVM

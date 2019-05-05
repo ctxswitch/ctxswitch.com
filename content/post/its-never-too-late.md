@@ -5,6 +5,8 @@ draft: false
 image: images/road-less-traveled.jpg
 tags:
   - Life
+aliases:
+ - /blog/2015/02/07/its-never-too-late/
 ---
 
 Sometimes in your life, you run into situations that spur reflection. Decisions made, paths chosen and priorities run through your mind at lightning speed and stimulate deep emotions. For many people, the road to a dream can be long and be full of challenges and sacrifices. I was in my early 30’s when I first started seeing the fruits of those challenges. Hopefully, my story will inspire others to keep trying and never give up on their dreams.
