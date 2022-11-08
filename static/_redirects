@@ -1,5 +1,0 @@
-# Redirect domain aliases to primary domain
-http://rlyon.me/* https://www.ctxswitch.com/:splat 301!
-https://rlyon.me/* https://www.ctxswitch.com/:splat 301!
-http://www.rlyon.me/* https://www.ctxswitch.com/:splat 301!
-https://www.rlyon.me/* https://www.ctxswitch.com/:splat 301!
