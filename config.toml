@@ -1,0 +1,16 @@
+baseURL = "https://ctxswitch.com/"
+title = "Rob Lyon"
+theme = "custom"
+
+[params]
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  showMenuItems = 2
+  showReadingTime = false
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
