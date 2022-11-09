@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <section class="section">
+            <div class="columns">
+                <div class="column auto"></div>
+                <div class="column is-one-fifths-desktop">
+                    {{- partial "left.html" . -}}
+                </div>
+                <div class="column is-two-fifths-desktop">
+                    {{- partial "right.html" . -}}
+                </div>
+                <div class="column auto"></div>
+            </div>
+        </section>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>
